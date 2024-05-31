@@ -1,0 +1,3 @@
+give command jupyter nootbook
+pip install bla bla bla
+code .
